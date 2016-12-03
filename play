@@ -1,0 +1,2 @@
+#!/bin/bash
+script -q -r golf.script env -i bash --noprofile --rcfile setup.sh
